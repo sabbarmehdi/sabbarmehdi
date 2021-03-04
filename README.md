@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm El Mehdi Sabbar</h1>
-<h3 align="center">A passionate Full Stack developer from Morocco</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbarmehdi&label=Profile%20views&color=0e75b6&style=flat" alt="sabbarmehdi" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [TourismPro](https://github.com/sabbarmehdi/TourismProFront)
 
-- 🌱 I’m currently learning **ReactJS, Angualr, NodeJS**
+- 🌱 I’m currently learning **ReactJS, React Native, NodeJS**
 
 - 👨‍💻 All of my projects are available at [http://elmehdi-sabbar.codes/](http://elmehdi-sabbar.codes/)
 
