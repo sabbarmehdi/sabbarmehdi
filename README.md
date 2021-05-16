@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sabbar.mehdi94@gmail.com**
 
-- 📄 Know about my experiences [Find Resume in my Portfolio](Find Resume in my Portfolio)
+- 📄 Know about my experiences (Find Resume in my Portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
