@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on [TourismPro](https://github.com/sabbarmehdi/TourismProFront)
+<!-- 🔭 I’m currently working on [TourismPro](https://github.com/sabbarmehdi/TourismProFront)-->
 
-- 🌱 I’m currently learning **ReactJS, React Native, NodeJS**
+<!-- 🌱 I’m currently learning **ReactJS, React Native, NodeJS** -->
 
 - 👨‍💻 All of my projects are available at [http://elmehdi-sabbar.codes/](http://elmehdi-sabbar.codes/)
 
