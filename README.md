@@ -9,7 +9,7 @@
 
 <!-- 🌱 I’m currently learning **ReactJS, React Native, NodeJS** -->
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://sabbarmehdi.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at my [Portfolio](http://elmehdi-sabbar.me/)
 
 - 📫 How to reach me **sabbar.mehdi94@gmail.com**
 
