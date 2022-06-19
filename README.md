@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm El Mehdi Sabbar</h1>
 <h3 align="center">Full Stack Developer</h3>
-<h3 align="center">Languages and Tools:</h3>
+<!--<h3 align="center">Languages and Tools:</h3>-->
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
     <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
